@@ -6,7 +6,7 @@ step-1 = Launch and ec2-instance of ubuntu OS and connect to an instance via any
 
 step-2 = install docker in ubuntu system, command -->>                                                   sudo apt install docker.io
 
-step-3 = clone this repositary in your system through command -->>                                       git clone 
+step-3 = clone this repositary in your system through command -->>                                       git clone https://github.com/sultansaudagar1999/Startup-Website.git
 
 step-4 = navigate inside the startup-website directory which is created by cloning via -->>              cd Startup-Website/
 
